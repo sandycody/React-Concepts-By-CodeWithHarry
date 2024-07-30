@@ -1,0 +1,23 @@
+.btnContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.content {
+    display: inline;
+    float: left;
+    width: 80%;
+    margin: 3px;
+}
+
+.btn {
+    margin-bottom: 15px;
+    margin-left: 300px;
+    padding-top: 10px;
+    display: flex;
+    background-color: white;
+    color: black;
+}

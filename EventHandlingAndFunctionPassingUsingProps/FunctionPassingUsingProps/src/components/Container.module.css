@@ -1,0 +1,7 @@
+.box {
+    color: rgb(115, 249, 144);
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid burlywood;
+    border-radius: 8px;
+}

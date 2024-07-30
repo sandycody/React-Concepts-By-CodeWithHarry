@@ -1,0 +1,15 @@
+.searchItem {
+    margin: 5px;
+    padding: 16px;
+    width: 60%;
+}
+
+.searchItem::placeholder {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.searchItem[type="text"] {
+    font-size: 20px;
+}

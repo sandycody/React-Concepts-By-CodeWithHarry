@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  display: flex;
+  gap: 30px;
+  background: #414141;
+}
+
+li {
+  list-style-type: none;
+  margin: 10px 12px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a li {
+  color: white;
+}
+
+.lightgreen {
+  background-color: lightgreen;
+}
+
+.lightgreen li {
+  color: black;
+}
+
+h1 {
+  margin: 25vh;
+  text-align: center;
+}
